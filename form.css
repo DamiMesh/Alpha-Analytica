@@ -1,0 +1,16 @@
+.form-section {
+  margin-top: 10rem;
+  padding: 5rem;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.form-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+iframe {
+  width: 100%;
+  border-radius: var(--border-radius-2);
+}

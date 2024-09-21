@@ -1,0 +1,27 @@
+
+.coming-soon {
+    font-size: 3rem;
+    color: #00a8fa; /* Blue color */
+    animation: fadeIn 2s infinite;
+    margin-top: 100px; /* Add some space below the header */
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    .coming-soon {
+        color: #ffffff; /* Change text color to white */
+    }
+}

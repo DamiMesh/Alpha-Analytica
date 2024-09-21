@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "images",
+			"path": "../Alpha-Analytica-1/images"
+		},
+		{
+			"name": "Responsive Education Website",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "Responsive Education Website"
+	}
+}
